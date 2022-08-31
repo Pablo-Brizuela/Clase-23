@@ -1,5 +1,14 @@
 [
  {
+  "id": 1,
+  "name": "Cafetera Moulinex Dolce Gusto Edited",
+  "price": "1000",
+  "discount": "50",
+  "category": "visited",
+  "description": "Cafetera Dolce Gusto Lumio. La cafetera Dolce Gusto Lumio es de variedad automática que ha llegado con un diseño radical al que nos tenía acostumbrados Dolce Gusto.En este post te contamos todo lo que necesitas saber sobre ella, desde sus características técnicas hasta la calidad de las cápsulas o price.",
+  "image": "img-cafetera-moulinex.jpg"
+ },
+ {
   "id": 2,
   "name": "Macbook Pro 2022",
   "price": 500,
@@ -72,6 +81,15 @@
   "category": "visited"
  },
  {
+  "id": 10,
+  "name": "Mouse Inalámbrico Logitech M280",
+  "description": "Uso más cómodo para la mano derecha gracias a la forma contorneada con recubrimiento de goma blanda. Duración de las pilas hasta 18 meses, gracias al diseño para ahorrar energía.El M280 entra automáticamente en estado de suspensión cuando no se está usando.",
+  "price": 1200,
+  "discount": 10,
+  "image": "img-mouse-logitech.jpg",
+  "category": "visited"
+ },
+ {
   "id": 11,
   "name": "Parlante Inalámbrico Bose Soundtouch 10",
   "description": "Parlante Inalámbrico Bose Soundtouch 10. SoundTouch®.La manera más sencilla de reproducir música en todo su hogar de forma inalámbrica. Características. » Marca: Bose. » Modelo: SoundTouch. » Color: Negro",
@@ -100,12 +118,12 @@
  },
  {
   "id": 14,
-  "name": "",
-  "price": "",
-  "discount": "",
-  "category": "",
+  "name": "Sony S6700 Reproductor De Blu-ray ",
   "description": "Disfruta de tus películas favoritas con hasta cuatro veces más detalles que Full HD, gracias a la conversión de señales 4K. Cuando se conecta a un televisor compatible,un procesador de video avanzado convierte el video estándar en una señal cercana a la resolución 4K (3840 x 2160). Con ocho millones de píxeles, obtendrás imágenes más nítidas y detalladas, y la mayor calidad de la image te permite sentarte más cerca de la pantalla para que te sientas como en el cine.",
-  "image": "img-sony-blueray.jpg"
+  "price": 10999,
+  "discount": 5,
+  "image": "img-sony-blueray.jpg",
+  "category": "visited"
  },
  {
   "id": 15,
@@ -124,5 +142,23 @@
   "category": "in-sale",
   "description": "Deja que la música dance cobre vida con EXTRA BASS™ Anima el ambiente con EXTRA BASS™1. Un radiador pasivo trabaja con el parlante monoaural para potenciar los tonos bajos y mejorar los graves, a pesar del tamaño compacto. ",
   "image": "img-parlante-sony.jpg"
+ },
+ {
+  "id": 1661913535947,
+  "name": "Motorola",
+  "description": "algo",
+  "price": "55000",
+  "discount": "25",
+  "category": "in-sale",
+  "image": "default-image.png"
+ },
+ {
+  "id": 1661913826454,
+  "name": "jose test",
+  "description": "algo",
+  "price": "55000",
+  "discount": "12",
+  "category": "visited",
+  "image": "default-image.png"
  }
 ]
